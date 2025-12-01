@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "カナリヤ",
+  "base_artist": "Kenshi Yonezu",
+  "createdAt": "2025-12-01T22:18:20.698014Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "カナリヤ",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/01_カナリヤ_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "カナリヤ -SORMA No.3 Re-mix-",
+      "artist": "KOTOKO",
+      "has_synced": false,
+      "path": "select/02_カナリヤ_-SORMA_No.3_Re-mix-_KOTOKO.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "カナリヤ:GFdm-MIX",
+      "artist": "nikaco",
+      "has_synced": true,
+      "path": "select/03_カナリヤ_GFdm-MIX_nikaco.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "カナリヤ",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/04_カナリヤ_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "カナリヤ",
+      "artist": "Kenshi Yonezu",
+      "has_synced": true,
+      "path": "select/05_カナリヤ_Kenshi_Yonezu.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "カナリヤ [ANIME SIDE]（Instrumental）",
+      "artist": "in NO hurry to shout;",
+      "has_synced": true,
+      "path": "select/06_カナリヤ_[ANIME_SIDE](Instrumental)_in_NO_hurry_to_shout;.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "カナリヤ",
+      "artist": "GRANRODEO",
+      "has_synced": true,
+      "path": "select/07_カナリヤ_GRANRODEO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "カナリヤ（MOVIE SIDE）",
+      "artist": "in NO hurry to shout;",
+      "has_synced": true,
+      "path": "select/08_カナリヤ(MOVIE_SIDE)_in_NO_hurry_to_shout;.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "カナリヤ (Canary)",
+      "artist": "米津玄師",
+      "has_synced": true,
+      "path": "select/09_カナリヤ_(Canary)_米津玄師.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "カナリヤ -SORMA No.3 Remix-",
+      "artist": "KOTOKO",
+      "has_synced": false,
+      "path": "select/10_カナリヤ_-SORMA_No.3_Remix-_KOTOKO.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "カナリヤ",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/11_カナリヤ_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Canary (カナリヤ) - SORMA No.3 Re-mix -",
+      "artist": "KOTOKO",
+      "has_synced": false,
+      "path": "select/12_Canary_(カナリヤ)_-_SORMA_No.3_Re-mix_-_KOTOKO.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "カナリヤ(Original Karaoke)",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/13_カナリヤ(Original_Karaoke)_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "カナリヤ from THE YELLOW MONKEY MOTHER OF ALL THE BEST (Remastered)",
+      "artist": "THE YELLOW MONKEY",
+      "has_synced": true,
+      "path": "select/14_カナリヤ_from_THE_YELLOW_MONKEY_MOTHER_OF_ALL_THE_BEST_(Remastered)_THE_YELLOW_MONKEY.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "カナリヤ鳴く空",
+      "artist": "東京スカパラダイスオーケストラ",
+      "has_synced": false,
+      "path": "select/pl_01_カナリヤ鳴く空_東京スカパラダイスオーケストラ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "カナリヤ",
+      "artist": "東京スカパラダイスオーケストラ",
+      "has_synced": false,
+      "path": "select/pl_02_カナリヤ_東京スカパラダイスオーケストラ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "カナリヤ",
+      "artist": "東京スカパラダイスオーケストラ",
+      "has_synced": false,
+      "path": "select/pl_03_カナリヤ_東京スカパラダイスオーケストラ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "kanariya",
+      "artist": "東京スカパラダイスオーケストラ",
+      "has_synced": false,
+      "path": "select/pl_04_kanariya_東京スカパラダイスオーケストラ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "カナリヤ",
+      "artist": "東京スカパラダイスオーケストラ",
+      "has_synced": false,
+      "path": "select/pl_05_カナリヤ_東京スカパラダイスオーケストラ.txt"
+    }
+  ]
+}
